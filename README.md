@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TANJIL87
 - 👀 I’m interested in Minecraft 
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Minecraft Server Development
+- 📫 How to reach me : https://tanjil.cyanplex.net
 
 <!---
 TANJIL87/TANJIL87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
